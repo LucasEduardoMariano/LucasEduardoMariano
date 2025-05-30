@@ -1,59 +1,43 @@
-<h1 align="center">Olá, eu sou o Lucas Mariano 👋</h1>
+<h1 align="center">Lucas Mariano 🧃</h1>
 
 <p align="center">
-  💻 Desenvolvedor Web em formação | 🎓 Estudante de Engenharia de Software | 🚀 Apaixonado por tecnologia
+  Web Developer • UI Lover • Work in progress <br>
+  <em>a bit of a designer, a bit of a dev — 100% detail-oriented ✨</em>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🧠 About Me
 
-Sou um desenvolvedor em início de carreira com grande entusiasmo por aprender e criar soluções criativas. Atuo com foco em **desenvolvimento web** e tenho experiência com **JavaScript, HTML, CSS e Tailwind CSS**, além de familiaridade com **Java, C# e bancos de dados relacionais**.
+I’m Lucas — a junior developer building my path in the tech world.  
+After completing a web development course, I’ve been creating projects that combine **clean code** with **intuitive and aesthetic interfaces**.
 
-Atualmente estou me preparando para ingressar na universidade em **Engenharia de Software**, e paralelamente, busco oportunidades de estágio e projetos que me desafiem a crescer como profissional.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,github,vscode,java,cs,mysql" />
-</p>
+I believe logic and beauty can (and should) go together.  
+Clean, structured and always with style.
 
 ---
 
-### 📈 Estou aprendendo
+### 💼 What I Know
 
-- 🧠 **Swift** e tecnologias do ecossistema Apple (SwiftUI, UIKit, Core Data)
-- 🎮 **Desenvolvimento de jogos** com C++, C# e Unity
-- 📊 **Estatística, Probabilidades e Funções** para reforçar base matemática
-- 🗣️ Inglês (objetivo: nível C1) | Francês (objetivo: nível B2)
-
----
-
-### 🎯 Objetivos
-
-- 🚀 Trabalhar como desenvolvedor em uma empresa global de impacto (Apple, Riot Games, Louis Vuitton)
-- 📲 Lançar meus próprios apps na App Store
-- 💼 Conquistar meu primeiro estágio na área de TI
-- 🧠 Construir um portfólio sólido com projetos reais
+- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS  
+- **Backend:** PHP, programming logic, MVC architecture  
+- **Databases:** MySQL, MariaDB  
+- **Tools:** Git, GitHub, Figma, VS Code
 
 ---
 
-### 📌 Projetos em destaque
+### 📚 Currently Learning
 
-🚧 *Em construção... Em breve você verá projetos incríveis aqui!*
-
----
-
-### 🤝 Vamos nos conectar!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-mariano-dev/)
-- 🌐 [Portfólio (em breve)](https://lucaseduardomariano.dev)
-- 📫 lucas.mariano.dev@gmail.com
+- Laravel  
+- CakePHP  
+- REST APIs  
+- Advanced UI/UX with Figma  
+- Dashboard and admin interface design
 
 ---
 
-<p align="center">
-  Feito com 💙 por Lucas Mariano
-</p>
+### 🧪 Projects in Progress
+
+- 🔧 **Admin Control System** – Visual prototype for HR management  
+- 🎨 **Portfolio UI** – Responsive layout inspired by modern design trends  
+
